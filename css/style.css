@@ -1,0 +1,45 @@
+/* Header */
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+}
+.header-container {
+    margin-top: 12px;
+}
+.logo {
+    font-family: 'Helvetica-Bold';
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #FA6980;
+    margin-left: 20px;
+    margin-right: 92px;
+    vertical-align: middle;
+}
+.header-nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li {
+    display: inline-block;
+    font-family: 'Helvetica-Bold';
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.home-button {
+    color: #343638;
+    margin-right: 27px;
+}
+.buttons {
+    color: #343638;
+    opacity: 0.5;
+    margin-right: 22px;
+    padding-bottom: 4px;
+}
+.profile-img {
+    width: 30px;
+    vertical-align: middle;
+    margin-left: 18px;
+}
