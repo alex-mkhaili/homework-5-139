@@ -9,3 +9,26 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Helvetica-Oblique';
+    src: url('../fonts/helvetica-oblique/Helvetica-Oblique.eot');
+    src: url('../fonts/helvetica-oblique/Helvetica-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/helvetica-oblique/Helvetica-Oblique.woff2') format('woff2'),
+        url('../fonts/helvetica-oblique/Helvetica-Oblique.woff') format('woff'),
+        url('../fonts/helvetica-oblique/Helvetica-Oblique.svg#Helvetica-Oblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('../fonts/acumin-regular/AcuminPro-Regular.eot');
+    src: url('../fonts/acumin-regular/AcuminPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/acumin-regular/AcuminPro-Regular.woff2') format('woff2'),
+        url('../fonts/acumin-regular/AcuminPro-Regular.woff') format('woff'),
+        url('../fonts/acumin-regular/AcuminPro-Regular.ttf') format('truetype'),
+        url('../fonts/acumin-regular/AcuminPro-Regular.svg#AcuminPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

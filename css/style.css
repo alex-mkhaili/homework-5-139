@@ -1,10 +1,15 @@
 /* Header */
+body {
+    height: 3000px;
+    padding-top: 50px;
+}
 .fixed-header {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 50px;
+    z-index: 100;
 }
 .header-container {
     margin-top: 12px;
@@ -43,3 +48,71 @@
     vertical-align: middle;
     margin-left: 18px;
 }
+
+/* First section */
+
+.first-section {
+    width: 1160px;
+    margin: 25px auto 58px auto;
+}
+.first-sec-title {
+    font-family: 'Helvetica-Bold';
+    font-size: 24px;
+    color: #202124;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.first-sec-block-img {
+    margin-bottom: 66px;
+}
+.first-sec-left-block {
+    display: inline-block;
+    width: 360px;
+    position: relative;
+    margin-right: 40px;
+}
+.text-over-img {
+    font-family: 'Helvetica-Bold';
+    font-size: 16px;
+    position: absolute;
+    top: 28px;
+    left: 36px;
+    color: white;
+}
+.picture-description-text {
+    font-family: 'Acumin Pro';
+    font-size: 13px;
+    line-height: 22px;
+    color: #A6ADB4;
+    width: 280px;
+    margin: 0px auto 10px auto;
+}
+.time-reminder {
+    display: inline-block;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-family: 'Helvetica-Oblique';
+    color: #A6ADB4;
+    font-size: 13px;
+}
+.clock-icon {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.time-counter {
+    display: inline-block;
+    vertical-align: middle;
+}
+.first-sec-middle-block {
+    display: inline-block;
+    width: 360px;
+    margin-right: 40px;
+    position: relative;
+}
+.first-sec-right-block {
+    display: inline-block;
+    width: 360px;
+    position: relative;
+}
+
+/* Second section */
