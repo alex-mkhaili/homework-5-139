@@ -1,7 +1,10 @@
-/* Header */
 body {
     padding-top: 50px;
 }
+
+
+/* Header */
+
 .fixed-header {
     position: fixed;
     top: 0;
@@ -47,6 +50,7 @@ body {
     vertical-align: middle;
     margin-left: 18px;
 }
+
 
 /* First section */
 
@@ -114,6 +118,7 @@ body {
     position: relative;
 }
 
+
 /* Second section */
 
 .second-section {
@@ -151,6 +156,7 @@ body {
 .right-block-img {
     margin-bottom: 102px;
 }
+
 
 /* Footer */
 
