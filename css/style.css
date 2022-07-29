@@ -73,9 +73,6 @@ body {
     position: relative;
     margin-right: 40px;
 }
-.first-sec-block-img {
-    margin-bottom: 66px;
-}
 .first-sec-text-over-img {
     font-family: 'Helvetica-Bold';
     font-size: 16px;
@@ -86,6 +83,7 @@ body {
 }
 .picture-description {
     background-color: #FFF;
+    padding-top: 66px;
 }
 .picture-description-text {
     font-family: 'Acumin Pro';
